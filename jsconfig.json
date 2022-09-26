@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "baseUrl": "src",
+      "paths": {
+        "@/styles/*": ["styles/*"],
+        "@/utils/*": ["utils/*"],
+        "@/tools/*": ["tools/*"],
+        "@/widgets/*": ["components/widgets/*"],
+        "@/common/*": ["common/*"],
+        "@/components/*": ["components/*"],
+        "@/modules/*": ["modules/*"],
+        "@/elements/*": ["elements/*"],
+
+      },
+     
+    }
+    
+    
+  }
+  
+  
